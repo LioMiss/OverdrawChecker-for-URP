@@ -1,0 +1,11 @@
+
+Server/SplendorServer/obj/Debug/net6.0/SplendorServer.genruntimeconfig.cache
+OverdrawChecker/.vs/OverdrawChecker/v17/.suo
+OverdrawChecker/.vs/OverdrawChecker/FileContentIndex/read.lock
+OverdrawChecker/.vs/OverdrawChecker/FileContentIndex/d38546cd-5942-4cdf-8363-44ce413d114a.vsidx
+OverdrawChecker/.vsconfig
+OverdrawChecker/.vs/OverdrawChecker/FileContentIndex/1d7f908d-71d0-4466-83be-d039489ec38b.vsidx
+*.vsidx
+OverdrawChecker/Library/*
+OverdrawChecker/Logs/*
+OverdrawChecker/obj/*

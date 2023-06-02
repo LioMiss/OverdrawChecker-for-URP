@@ -1,0 +1,18 @@
+{
+    "name": "OverdrawMonitor.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4e86a9210c527994fbb83d9176c27ca8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
